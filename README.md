@@ -4,7 +4,7 @@ This is a browserify transform which converts [RequireJS](http://requirejs.org/)
 
 ## Usage
 
-1. Install the module with: `npm install requiredetextify`
+1. [npm install requiredetextify](https://www.npmjs.com/package/requiredetextify)
 2. Run browserify transforms `requiredetextify` and `brfs`
 
         "browserify": {
