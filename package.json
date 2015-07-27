@@ -1,6 +1,6 @@
 {
   "name": "requiredetextify",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "transform require('text!pathtoTextFile') to brfs compatible calls",
   "homepage": "https://github.com/ScottWeinstein/requiredetextify",
   "bugs": "https://github.com/ScottWeinstein/requiredetextify/issues",
