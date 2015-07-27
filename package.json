@@ -31,7 +31,7 @@
     "grunt-mocha-test": "~0.12.4"
   },
   "dependencies": {
-    "through2": "^0.6.3"
+    "through2": "^2.0.0"
   },
   "keywords": [
     "browserify-transform"
