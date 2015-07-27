@@ -12,11 +12,7 @@
     "type": "git",
     "url": "https://github.com/ScottWeinstein/requiredetextify"
   },
-  "licenses": [
-    {
-      "type": "MIT"
-    }
-  ],
+  "license": "MIT",
   "scripts": {
     "test": "./node_modules/.bin/mocha -b test -u tdd  -R spec"
   },
