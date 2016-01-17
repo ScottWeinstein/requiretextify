@@ -10,7 +10,7 @@ This is a browserify transform which converts [RequireJS](http://requirejs.org/)
 
         "browserify": {
             "transform": [
-                "requiretextify",
+                "requiredetextify",
                 "brfs"
             ]
         }
